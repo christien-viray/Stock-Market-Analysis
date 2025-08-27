@@ -1,5 +1,5 @@
 ##### Stock Market Sector Analysis (2020-2024)
-
+Author: Christien Bryan Reyes Viray
 
 
 ###### Overview
@@ -73,3 +73,4 @@ Description: This dataset contains The Standard and Poor's 500 or S\&P 500 stock
 
 
 * Across different sectors, as total revenue growth declines, the current stock price performance tends to decline as well, showing a positive correlation between revenue growth and stock price performance at the sector level.
+
